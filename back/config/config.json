@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "rotsy",
+    "password": "GG591337GG",
+    "database": "GestionVente",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "rotsy",
+    "password": "GG591337GG",
+    "database": "GestionVente_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "rotsy",
+    "password": "GG591337GG",
+    "database": "GestionVente_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
